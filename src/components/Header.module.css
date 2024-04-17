@@ -1,0 +1,8 @@
+.header {
+  background: var(--gray-700);
+}
+
+.header img {
+  display: flex;
+  margin: 4.5rem auto;
+}
